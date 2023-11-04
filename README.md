@@ -4,6 +4,7 @@
   <img src="banner.png" >
 </p>
 
+
 # Alexandre Wildt Graziani
 <sub>*Lead Data Scientist*</sub>
 
