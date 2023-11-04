@@ -8,9 +8,13 @@
 # Alexandre Wildt Graziani
 <sub>*Lead Data Scientist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Mein Interesse als Datenwissenschaftler hat sich schon früher in meinem Studium der Volkswirtschaft in Brasilien gezeigt. Die Analyse von wirtschaftlichen Fragen, die Zusammenhängen von Sozioökonomie Faktoren haben meine Neugier für statische Modelle geweckt. Das Studium an der Fachhochschule Köln habe ich als Bachelor of Science Wirtschaftsinformatik erfolgreich abgeschlossen. In Rahmen meiner Bachelorarbeit, implementierte ich eine  Anwendungssoftware für die Visualisierung (Heatmap) und Auswertung von Daten in Form von Clustering. 
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Diese Software wurde in Zusammenarbeit mit der Deutschen Sporthochschule Köln (Institut für 
+Trainingswissenschaft und Sportinformatik) entwickelt. Darüber hinaus wurden 
+echte Daten aus der Fußball Bundesliga 2011/2012 unter zwei Maschinelles Lernen Methoden 
+getestet und ausgewertet.
+
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
