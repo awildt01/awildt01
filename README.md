@@ -15,6 +15,8 @@ Trainingswissenschaft und Sportinformatik) entwickelt. Darüber hinaus wurden
 echte Daten aus der Fußball Bundesliga 2011/2012 unter zwei Maschinelles Lernen Methoden 
 getestet und ausgewertet.
 
+Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Science und Daten Analyse, die von der Plattform Stack-Academy organisiert werden. Die Stack-Academy ermöglicht eine Zusammenarbeit zwischen der Wirtschaft und den Hochschulen in ganz Brasilien. Dort habe ich wertvolle Erfahrungen gesammelt, sowie die Möglichkeit mit verschiedenen Menschen in  dieser Fachrichtung  zu arbeiten.
+
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
