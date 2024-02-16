@@ -23,7 +23,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 **Links:**
 * [Blog](https://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [Medium]( https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 
 
 ## Projekte:
