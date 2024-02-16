@@ -23,7 +23,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 **Links:**
 * [Blog](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium]( https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
+* [Medium](https://medium.com/@alexandrewildtgraziani/visualisierung-von-daten-aus-der-bundesliga-2011-2012-durch-heatmap-kernel-density-estimation-ed207d52ceed)
 
 
 ## Projekte:
