@@ -21,7 +21,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
+* [Blog](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 * [LinkedIn](https://www.linkedin.com/in/carlosfab)
 * [Medium]( https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 
