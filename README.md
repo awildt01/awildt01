@@ -5,7 +5,7 @@
 </p>
 
 
-# Alexandre Wildt Graziani 
+# Alexandre Wildt Graziani    <p align="right"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a> </p>
 <sub>*Lead Data Scientist*</sub>
 
 Mein Interesse als Datenwissenschaftler hat sich schon früher in meinem Studium der Volkswirtschaft in Brasilien gezeigt. Die Analyse von wirtschaftlichen Fragen, die Zusammenhängen von Sozioökonomie Faktoren haben meine Neugier für statische Modelle geweckt. Das Studium an der Fachhochschule Köln habe ich als Bachelor of Science Wirtschaftsinformatik erfolgreich abgeschlossen. In Rahmen meiner Bachelorarbeit, implementierte ich eine  Anwendungssoftware für die Visualisierung (Heatmap) und Auswertung von Daten in Form von Clustering. 
@@ -26,6 +26,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 * [Medium](https://medium.com/@alexandrewildtgraziani/visualisierung-von-daten-aus-der-bundesliga-2011-2012-durch-heatmap-kernel-density-estimation-ed207d52ceed)
 
 
+
 ## Projekte:
 Veja os tutoriais publicados do Sigmoidal:
 
@@ -36,6 +37,19 @@ Veja os tutoriais publicados do Sigmoidal:
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+
+### 📚 Latest Blog Posts
+
+<!--START_SECTION:feed-->
+* [Building Rome in a Day: 3D Reconstruction with Computer Vision](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-rome-in-a-day-3d-reconstruction-with-computer-vision&#x2F;)
+* [Learn Camera Calibration using OpenCV](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;learn-camera-calibration-using-opencv-and-python&#x2F;)
+* [Real-time Human Pose Estimation using MediaPipe](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;real-time-human-pose-estimation-using-mediapipe&#x2F;)
+* [What is Computer Vision and How does it work?](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;what-is-computer-vision-how-does-it-work&#x2F;)
+* [ORB-SLAM 3: A Tool for 3D Mapping and Localization](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;orb-slam-3-a-tool-for-3d-mapping-and-localization&#x2F;)
+* [Building a Deep Learning Neural Network using TensorFlow](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;building-a-deep-learning-neural-using-network-tensorflow&#x2F;)
+* [Matrix Transformations and Coordinate Systems with Python](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;matrix-transformations-and-coordinate-systems-with-python&#x2F;)
+* [Build a Surveillance System with Computer Vision and Deep Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;build-a-surveillance-system-with-computer-vision&#x2F;)
+* [Fundamentals of Image Formation](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;fundamentals-of-image-formation&#x2F;)
 
 ## Skills  
 
