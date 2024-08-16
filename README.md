@@ -51,6 +51,15 @@ Veja os tutoriais publicados do Sigmoidal:
 * [Build a Surveillance System with Computer Vision and Deep Learning](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;build-a-surveillance-system-with-computer-vision&#x2F;)
 * [Fundamentals of Image Formation](https:&#x2F;&#x2F;sigmoidal.ai&#x2F;en&#x2F;fundamentals-of-image-formation&#x2F;)
 
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-melo-data-science/)](https://www.linkedin.com/in/carlos-melo-data-science/)
+  [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CarlosMeloSigmoidal)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_melo.py)
+  [![Twitter Badge](https://img.shields.io/twitter/follow/:carlos_melo_py)](https://twitter.com/carlos_melo_py)
+
+  
+</div>  
 
 
 ---
