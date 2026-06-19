@@ -36,15 +36,15 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 
 
 ## Projekte:
-Veja os tutoriais publicados do Sigmoidal:
+Sehen Sie sich die veröffentlichten Tutorials von Sigmoidal an:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Wie man das Histogramm für Data Science nutzt:** https://bit.ly/2L2cMwy
+* **Wie man lineare Regression mit Python implementiert:** https://bit.ly/2Li5pzY
+* **Data Science: Die Untersuchung des Untergangs der Titanic:** https://bit.ly/2Ubr5SH
+* **Wie man fehlende Daten mit Pandas behandelt:** https://bit.ly/31KWSMN
+* **XGBoost: Lernen Sie diesen Machine-Learning-Algorithmus in Python kennen:** https://bit.ly/2UbRhws
+* **So erstellen Sie eine Wortwolke in Python** https://bit.ly/2OxsphM
+* **Wie man mit unausgewogenen Daten umgeht:** https://bit.ly/2ZlaNsV
 
 ### 📚 Latest Blog Posts
 
