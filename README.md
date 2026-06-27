@@ -28,6 +28,55 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
+[![LinkedIn](https://shields.io)](HIER_DEINEN_ECHTEN_LINKEDIN_LINK_EINFÜGEN)
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
+[![License GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://gnu.org)
+
+<p align="center">            
+  <img src="banner.png" alt="Data Science Banner">                                                      
+</p>                    
+
+# Alexandre Wildt Graziani 
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36"/>
+</p>
+
+Mein Interesse als Datenwissenschaftler hat sich schon früher in meinem Studium der Volkswirtschaft in Brasilien gezeigt. Die Analyse von wirtschaftlichen Fragen und den Zusammenhängen sozioökonomischer Faktoren haben meine Neugier für statistische Modelle geweckt. Das Studium an der Technischen Hochschule Köln habe ich als **Bachelor of Science Wirtschaftsinformatik** erfolgreich abgeschlossen. 
+
+Im Rahmen meiner Bachelorarbeit implementierte ich eine Anwendungssoftware für die Visualisierung (Heatmaps) und Auswertung von Daten mittels Clustering-Verfahren. Diese Software wurde in Zusammenarbeit mit der **Deutschen Sporthochschule Köln** (Institut für Trainingswissenschaft und Sportinformatik) entwickelt, wobei echte Daten aus der Fußball-Bundesliga analysiert wurden.
+
+Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Science und Datenanalyse, organisiert durch die Stack-Academy, welche die Zusammenarbeit zwischen Wirtschaft und Hochschulen fördert.
+
+**Background in:** Python, Machine Learning and Mathematical Optimisation.
+
+---
+
+## 🚀 Flaggschiff-Projekte (Featured Projects)
+
+### 🩺 1. 3D Deep Learning: Lung Cancer Detection (LUNA16)
+* **Beschreibung:** End-to-End-Pipeline zur automatischen Klassifizierung von Lungenknoten in medizinischen 3D-CT-Scans.
+* **Tech-Stack:** Python, 3D-CNNs, Hounsfield-Skalierung (HU), Streamlit.
+* **Live-Demo:** 💻 **[Hier geht es zur interaktiven Web-App auf Hugging Face Spaces!](https://huggingface.co)**
+
+### 📊 2. FinTech: Kreditrisiko- & Scorecard-Modellierung (CRISP-DM)
+* **Beschreibung:** Entwicklung eines regulatorisch konformen Kreditrisikomodells (PD, LGD, EAD) basierend auf Basel III / IFRS 9 mit direkt berechenbarem Business-Impact.
+* **Tech-Stack:** Python, Scikit-Learn, Pandas, Scorecard-Entwicklung, robuste Logging-Pipelines.
+* **Repository:** 🛠️ **[Zum Credit-Scoring Projekt](https://github.com)**
+
+---
+
+## 🔗 Links
+* **LinkedIn:** [Dein Profil](HIER_DEINEN_ECHTEN_LINKEDIN_LINK_EINFÜGEN)
+* **Medium:** [@alexandrewildtgraziani](https://medium.com/@alexandrewildtgraziani)
+* **Bachelorarbeit (TH Köln):** [Publikation einsehen](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
+
+
 **Links:**
 * [Bachelorarbeit (TH Köln)](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 * [LinkedIn](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
