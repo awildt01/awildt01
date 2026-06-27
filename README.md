@@ -35,7 +35,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 
 
 
-## Projekte:
+## Tutorials:
 Sehen Sie sich die veröffentlichten Tutorials von Sigmoidal an:
 
 * **Wie man das Histogramm für Data Science nutzt:** https://bit.ly/2L2cMwy
