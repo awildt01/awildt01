@@ -29,8 +29,6 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 
----
-
 ## Featured Projects
 
 ### 1. 3D Deep Learning: Lung Cancer Detection (LUNA16)
