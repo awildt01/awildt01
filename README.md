@@ -29,7 +29,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 **Background in:** Python, Machine Learning and Mathematical Optimisation.
 
 **Links:**
-* [Blog](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
+* [Bachelorarbeit (TH Köln)](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 * [LinkedIn](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
 * [Medium](https://medium.com/@alexandrewildtgraziani)
 
