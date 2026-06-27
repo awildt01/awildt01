@@ -31,14 +31,14 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 
 ---
 
-## 🚀 Flaggschiff-Projekte (Featured Projects)
+## Featured Projects
 
-### 🩺 1. 3D Deep Learning: Lung Cancer Detection (LUNA16)
+### 1. 3D Deep Learning: Lung Cancer Detection (LUNA16)
 * **Beschreibung:** End-to-End-Pipeline zur automatischen Klassifizierung von Lungenknoten in medizinischen 3D-CT-Scans.
 * **Tech-Stack:** Python, 3D-CNNs, Hounsfield-Skalierung (HU), Streamlit.
 * **Live-Demo:**  **[Hier geht es zur interaktiven Web-App auf Hugging Face Spaces!](https://huggingface.co/spaces/wildt/lung-cancer-detection)**
 
-### 📊 2. FinTech: Kreditrisiko- & Scorecard-Modellierung (CRISP-DM)
+###  2. FinTech: Kreditrisiko- & Scorecard-Modellierung (CRISP-DM)
 * **Beschreibung:** Entwicklung eines regulatorisch konformen Kreditrisikomodells (PD, LGD, EAD) basierend auf Basel III / IFRS 9 mit direkt berechenbarem Business-Impact.
 * **Tech-Stack:** Python, Scikit-Learn, Pandas, Scorecard-Entwicklung, robuste Logging-Pipelines.
 * **Repository:** 🛠️ **[Zum Credit-Scoring Projekt](https://github.com)**
