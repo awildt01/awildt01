@@ -41,7 +41,7 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 ###  2. FinTech: Kreditrisiko- & Scorecard-Modellierung (CRISP-DM)
 * **Beschreibung:** Entwicklung eines regulatorisch konformen Kreditrisikomodells (PD, LGD, EAD) basierend auf Basel III / IFRS 9 mit direkt berechenbarem Business-Impact.
 * **Tech-Stack:** Python, Scikit-Learn, Pandas, Scorecard-Entwicklung, robuste Logging-Pipelines.
-* **Repository:** 🛠️ **[Zum Credit-Scoring Projekt](https://github.com)**
+* **Repository:** **[Zum Credit-Scoring Projekt](https://github.com/awildt01/Credit-Scoring)**
 
 ---
 
