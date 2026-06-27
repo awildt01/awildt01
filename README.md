@@ -45,11 +45,6 @@ Seit 09/2022 beteilige ich mich an verschiedenen Projekten im Bereich Data Scien
 
 ---
 
-## 🔗 Links
-* **LinkedIn:** [Dein Profil](HIER_DEINEN_ECHTEN_LINKEDIN_LINK_EINFÜGEN)
-* **Medium:** [@alexandrewildtgraziani](https://medium.com/@alexandrewildtgraziani)
-* **Bachelorarbeit (TH Köln):** [Publikation einsehen](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
-
 
 **Links:**
 * [Bachelorarbeit (TH Köln)](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/992)
